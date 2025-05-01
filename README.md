@@ -4,6 +4,8 @@
 <h4 align="left">My name is Georgy Octavianus Fernando and I'm a Junior Web Developer</h4>
 
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGE1cGM1cmRpZ3hiMXg2anphZm53YjU2YjcyMXprdnJlN3RrNno5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YBCI0TX9mpJdp8z4RA/giphy.gif">
+
 
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Golang & Laravel<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: nothing</p>
 
